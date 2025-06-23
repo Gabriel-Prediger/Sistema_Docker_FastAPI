@@ -9,16 +9,6 @@
 - [Instalação e execução](#instalação-e-execução)
   - [Pré-requisitos](#pré-requisitos)
   - [Passos com Docker Compose](#passos-com-docker-compose)
-- [Modelo de recomendação](#modelo-de-recomendação)
-  - [Dados de entrada](#dados-de-entrada)
-  - [Descrição do algoritmo](#descrição-do-algoritmo)
-  - [Decisões de design](#decisões-de-design)
-- [Arquitetura da aplicação](#arquitetura-da-aplicação)
-- [Uso](#uso)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
 ---
 
 ## 🎯 Descrição
